@@ -1,5 +1,5 @@
 # WaveFunctionCollapse
-Wave function collapse test with a 2D tile set and pre-rotated tiles.
+Wave function collapse test with a 2D tile set and pre-rotated tiles. Developed in Unity and uses the language C#.
 
 <img width="191" alt="image" src="https://user-images.githubusercontent.com/92940760/184951534-8e26a17c-95d3-4b3e-9422-58a8030733d3.png">
 
