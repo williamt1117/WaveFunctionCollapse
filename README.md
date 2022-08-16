@@ -1,7 +1,7 @@
 # WaveFunctionCollapse
 Wave function collapse test with a 2D tile set and pre-rotated tiles.
 
-<img width="196" alt="image" src="https://user-images.githubusercontent.com/92940760/184950106-479b7dd0-3043-4ef7-8f3b-aac9e63adc47.png">
+<img width="191" alt="image" src="https://user-images.githubusercontent.com/92940760/184951534-8e26a17c-95d3-4b3e-9422-58a8030733d3.png">
 
 [Figure 1] 4x4 Tile set used for WFC.
 
@@ -16,5 +16,5 @@ Each tile gets assigned a 0 or a 1 corresponding to the connection type (0 for c
 
 [Figure 3] Generation example with reduced weights of cross tiles and cap tiles.
 
-
-More writing...
+<img width="238" alt="image" src="https://user-images.githubusercontent.com/92940760/184951846-8546e261-fa1a-4640-b0db-a41b0594c755.png">
+[Figure 4] Generation example removing blank tiles and increasing weight of corner and straight tiles.
